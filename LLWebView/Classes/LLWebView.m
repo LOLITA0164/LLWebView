@@ -68,7 +68,7 @@
                 {
                     if (ws.url.absoluteString.length) {
                         [ws loadURL:ws.url];
-                        [_timer invalidate];
+                        [ws.timer invalidate];
                     }
                 }
                     break;
