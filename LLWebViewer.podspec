@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'LLWebView'
+  s.name             = 'LLWebViewer'
   s.version          = '0.1.0'
   s.summary          = 'web视图，支持JS交互.'
 
