@@ -1,0 +1,29 @@
+PODS:
+  - LLWebView (0.1.0):
+    - Masonry (~> 1.1.0)
+    - Reachability (~> 3.2)
+  - Masonry (1.1.0)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - LLWebView (from `../`)
+  - Masonry (~> 1.1.0)
+  - Reachability (~> 3.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - Reachability
+
+EXTERNAL SOURCES:
+  LLWebView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLWebView: 26eafcd0b8e6ec9294c6de37ad1ef7e0b4703ac3
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 79e7fa97aa16fb15b83301243ef80bb79fffecea
+
+COCOAPODS: 1.7.2
